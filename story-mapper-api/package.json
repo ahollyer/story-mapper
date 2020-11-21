@@ -1,0 +1,14 @@
+{
+  "name": "story-mapper-api",
+  "version": "0.0.1",
+  "description": "API for Aspen's Story Mapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aspen Hollyer",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
